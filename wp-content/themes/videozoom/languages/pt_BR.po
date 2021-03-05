@@ -1,0 +1,449 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Videozoom v3.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-31 18:49:32+0000\n"
+"Last-Translator: morlima <juliana@3mw.com.br>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:12
+#@ wpzoom
+msgid "Error 404 - Nothing Found"
+msgstr "Erro 404 - Não foram encontrados resultados"
+
+#: 404.php:14
+#@ wpzoom
+msgid "The page you are looking for could not be found. Maybe try one of the links below?"
+msgstr "A página que você procura não foi encontrada. Confira os links abaixo."
+
+#: 404.php:17
+#@ wpzoom
+msgid "Popular Categories:"
+msgstr "Canais mais acessados:"
+
+#: 404.php:27
+#@ wpzoom
+msgid "Archives:"
+msgstr "Arquivo:"
+
+#: 404.php:37
+#@ wpzoom
+msgid "Tags:"
+msgstr "Points:"
+
+#: 404.php:44
+#: page.php:19
+#@ wpzoom
+msgid "Edit &raquo;"
+msgstr "Editar &raquo;"
+
+#: archive.php:30
+#@ wpzoom
+msgid "Recent Videos"
+msgstr "Vídeos mais recentes"
+
+#: attachment.php:14
+#@ wpzoom
+msgid "Edit this image"
+msgstr "Editar essa imagem"
+
+#: attachment.php:25
+#@ wpzoom
+msgid "View full size"
+msgstr "Veja ampliado"
+
+#: attachment.php:33
+#@ wpzoom
+msgid "&larr; Previous picture"
+msgstr "&larr; Imagem anterior"
+
+#: attachment.php:34
+#@ wpzoom
+msgid "Next picture &rarr;"
+msgstr "Próxima imagem &rarr;"
+
+#: comments.php:7
+#@ wpzoom
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esse conteúdo é protegido com senha. Insira a senha correta para ver os comentários."
+
+#: comments.php:20
+#@ wpzoom
+msgid "No Comments"
+msgstr "0 Comentários"
+
+#: comments.php:20
+#@ wpzoom
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: comments.php:20
+#@ wpzoom
+msgid "% Comments"
+msgstr "% Commentários"
+
+#: comments.php:26
+#@ wpzoom
+msgid "Previous Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:27
+#@ wpzoom
+msgid "Next Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:32
+#@ wpzoom
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:61
+#@ wpzoom
+msgid "0 Comments"
+msgstr "0 Comentários"
+
+#: comments.php:63
+#@ wpzoom
+msgid "You can be the first one to leave a comment."
+msgstr "Seja o primeiro a deixar um comentário."
+
+#: comments.php:81
+#@ wpzoom
+msgid "Name"
+msgstr "Nome"
+
+#: comments.php:81
+#: comments.php:85
+#@ wpzoom
+msgid "required"
+msgstr "obrigatório"
+
+#: comments.php:85
+#@ wpzoom
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: comments.php:89
+#@ wpzoom
+msgid "Website"
+msgstr "Site"
+
+#: comments.php:96
+#@ wpzoom
+msgid "Leave a Comment"
+msgstr "Comentários"
+
+#: comments.php:97
+#, php-format
+#@ wpzoom
+msgid "Leave a Reply to %s"
+msgstr "Responder %s"
+
+#: comments.php:98
+#@ wpzoom
+msgid "Click here to cancel reply."
+msgstr "Clique aqui para cancelar a resposta."
+
+#: comments.php:99
+#@ wpzoom
+msgid "Submit Comment"
+msgstr "Enviar"
+
+#: footer.php:24
+#@ wpzoom
+msgid "Copyright"
+msgstr "Copyright"
+
+#: footer.php:24
+#@ wpzoom
+msgid "All Rights Reserved"
+msgstr "Todos os direitos reservados"
+
+#: functions/theme/functions.php:274
+#@ wpzoom
+msgid "Page"
+msgstr "Página"
+
+#: functions/theme/post-options.php:241
+#: functions/theme/post-options.php:256
+#@ default
+#@ wpzoom
+msgid "Use JW Player as Featured"
+msgstr "Use o JW Player como Destaque"
+
+#: functions/theme/widgets/facebook-like-box.php:132
+#@ wpzoom
+msgid "Show Faces"
+msgstr "Mostrar fotos"
+
+#: functions/theme/widgets/facebook-like-box.php:135
+#@ wpzoom
+msgid "Show Stream"
+msgstr "Mostrar stream"
+
+#: functions/theme/widgets/facebook-like-box.php:138
+#@ wpzoom
+msgid "Show Header"
+msgstr "Mostrar cabeçalho"
+
+#: functions/theme/widgets/featured-posts.php:12
+#@ wpzoom
+msgid "Custom WPZOOM widget. Displays posts from a category or having a tag."
+msgstr "WPZOOM Custom widget. Mostra posts de determinado canal ou point."
+
+#: functions/theme/widgets/featured-posts.php:18
+#@ wpzoom
+msgid "WPZOOM: Homepage Posts"
+msgstr "WPZOOM: Posts da Home"
+
+#: functions/theme/widgets/featured-posts.php:83
+#: loop-blog.php:15
+#: loop.php:15
+#@ wpzoom
+msgid "Continue reading"
+msgstr "Continuar lendo"
+
+#: functions/theme/widgets/featured-posts.php:83
+#: loop-blog.php:15
+#: loop.php:15
+#@ wpzoom
+msgid "Edit this post"
+msgstr "Editar post"
+
+#: functions/theme/widgets/featured-posts.php:135
+#@ wpzoom
+msgid "Posts from a category:"
+msgstr "Vídeos do canal:"
+
+#: functions/theme/widgets/featured-posts.php:156
+#@ wpzoom
+msgid "Posts with a tag:"
+msgstr "Vídeos dos points:"
+
+#: functions/theme/widgets/featured-posts.php:174
+#@ wpzoom
+msgid "Posts to display:"
+msgstr "Posts para exibir:"
+
+#: functions/theme/widgets/featured-posts.php:195
+#@ wpzoom
+msgid "Display category"
+msgstr "Exibir canal"
+
+#: functions/theme/widgets/featured-posts.php:198
+#@ wpzoom
+msgid "Display date"
+msgstr "Exibir data"
+
+#: functions/theme/widgets/featured_cat.php:12
+#@ wpzoom
+msgid "Featured Category Widget"
+msgstr "Widget Canal em destaque"
+
+#: functions/theme/widgets/featured_cat.php:18
+#@ wpzoom
+msgid "WPZOOM: Featured Category"
+msgstr "WPZOOM: Canal em destaque"
+
+#: functions/theme/widgets/featured_cat.php:84
+#@ wpzoom
+msgid "Featured Posts"
+msgstr "Vídeos em destaque"
+
+#: functions/theme/widgets/featured_cat.php:89
+#: functions/theme/widgets/social.php:91
+#@ wpzoom
+msgid "Widget Title:"
+msgstr "Título da widget:"
+
+#: functions/theme/widgets/featured_cat.php:94
+#@ wpzoom
+msgid "Category:"
+msgstr "Canal:"
+
+#: functions/theme/widgets/featured_cat.php:114
+#@ wpzoom
+msgid "Number of posts to show:"
+msgstr "Número de posts para exibir:"
+
+#: functions/theme/widgets/social.php:12
+#@ wpzoom
+msgid "Custom WPZOOM Widget that displays links to social sharing websites."
+msgstr "WPZOOM Custom widget. Mostra links para suas redes sociais."
+
+#: functions/theme/widgets/social.php:18
+#@ wpzoom
+msgid "WPZOOM: Social Widget"
+msgstr "WPZOOM: Social widget"
+
+#: functions/theme/widgets/twitter.php:64
+#, php-format
+#@ wpzoom
+msgid "%s ago"
+msgstr "%s atrás"
+
+#: functions/theme/widgets/twitter.php:68
+#, php-format
+#@ wpzoom
+msgid "%s"
+msgstr "%s"
+
+#: functions/wpzoom/assets/js/shortcode-generator/dialog.php:45
+#@ wpzoom
+msgid "Customize the Shortcode"
+msgstr "Customize o shortcode"
+
+#: functions/wpzoom/assets/js/shortcode-generator/dialog.php:54
+#@ wpzoom
+msgid "Preview"
+msgstr "Visualizar"
+
+#: functions/wpzoom/assets/js/shortcode-generator/dialog.php:68
+#@ wpzoom
+msgid "Error"
+msgstr "Erro"
+
+#: functions/wpzoom/assets/js/shortcode-generator/dialog.php:71
+#@ wpzoom
+msgid "Your version of theme does not yet support shortcodes."
+msgstr "A versão do seu tema ainda não suporta shortcodes."
+
+#: functions/wpzoom/assets/js/shortcode-generator/dialog.php:76
+#@ wpzoom
+msgid "Looks like your active theme is not from WPZOOM. The shortcode generator only works with themes from WPZOOM."
+msgstr "Parece que seu tema não é da WPZOOM. O gerador de shortcode apenas funciona em temas da WPZOOM."
+
+#: functions/wpzoom/components/admin/settings-page.php:119
+#@ wpzoom
+msgid "For more information:"
+msgstr "Para mais informações:"
+
+#: functions/wpzoom/components/admin/settings-page.php:120
+#@ wpzoom
+msgid "<a href=\"http://www.wpzoom.com/support/documentation\" target=\"_blank\">Documentation and Tutorials</a>"
+msgstr "<a href=\"http://www.wpzoom.com/support/documentation\" target=\"_blank\">Documentação e tutoriais</a>"
+
+#: functions/wpzoom/components/admin/settings-page.php:121
+#@ wpzoom
+msgid "<a href=\"http://www.wpzoom.com/forum/\" target=\"_blank\">Support Forums</a>"
+msgstr "<a href=\"http://www.wpzoom.com/forum/\" target=\"_blank\">Fóruns de suporte</a>"
+
+#: functions/wpzoom/components/medialib-uploader.php:24
+#@ wpzoom
+msgid "Upload"
+msgstr "Upload"
+
+#: functions/wpzoom/components/medialib-uploader.php:43
+#@ wpzoom
+msgid "View File"
+msgstr "Ver arquivo"
+
+#: functions/wpzoom/components/medialib-uploader.php:55
+#@ wpzoom
+msgid "WPZOOM Exporter"
+msgstr "WPZOOM Exporter"
+
+#: functions/wpzoom/components/shortcodes/shortcodes.php:603
+#: functions/wpzoom/components/shortcodes/shortcodes.php:653
+#: functions/wpzoom/components/shortcodes/shortcodes.php:669
+#, php-format
+#@ wpzoom
+msgid "My %s Profile"
+msgstr "Meu %s Perfil"
+
+#: functions/wpzoom/components/shortcodes/shortcodes.php:624
+#@ wpzoom
+msgid "Subscribe to our RSS feed"
+msgstr "Receba nosso feed RSS"
+
+#: functions/wpzoom/components/video-thumb.php:86
+#@ wpzoom
+msgid "<strong>NOTICE!&nbsp;&nbsp;Unable to fetch video thumbnail</strong><br/>Either an invalid embed code was provided, or there is no thumbnail available for the specified video&hellip;<br/><small id=\"wpz_autothumb_remind\"><strong>REMINDER:</strong> You can always manually upload a featured image via the WordPress Media Uploader.</small>"
+msgstr "<strong>AVISO!&nbsp;&nbsp;Não foi possível capturar o thumbnail do vídeo</strong><br/>Verifique se o código embed é válido. Caso contrário, não há thumbnail disponível para esse vídeo&hellip;<br/><small id=\"wpz_autothumb_remind\"><strong>LEMBRETE:</strong> Você pode inserir um thumbnail manualmente escolhendo uma Imagem Destacada pela ferramenta de Upload do Wordpress.</small>"
+
+#: functions/wpzoom/wpzoom.php:106
+#@ wpzoom
+msgid "WPZOOM"
+msgstr "WPZOOM"
+
+#: functions/wpzoom/wpzoom.php:107
+#@ wpzoom
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: functions/wpzoom/wpzoom.php:110
+#@ wpzoom
+msgid "Framework Update"
+msgstr "Update do Framework"
+
+#: pagination.php:12
+#@ wpzoom
+msgid "&larr;  Previous"
+msgstr "&larr;  Anterior"
+
+#: pagination.php:13
+#@ wpzoom
+msgid "Next  &rarr;"
+msgstr "Próximo  &rarr;"
+
+#: single.php:78
+#@ wpzoom
+msgid "Categories"
+msgstr "Canais"
+
+#: single.php:84
+#@ wpzoom
+msgid "Tags"
+msgstr "Points"
+
+#: single.php:89
+#@ wpzoom
+msgid "Share this post"
+msgstr "Compartilhar"
+
+#: single.php:180
+#@ wpzoom
+msgid "Posted by"
+msgstr "Por:"
+
+#: single.php:180
+#@ wpzoom
+msgid "on"
+msgstr "em"
+
+#: single.php:189
+#: template-full-width.php:29
+#: template-sidebar-left.php:29
+#@ wpzoom
+msgid "Edit this post &raquo;"
+msgstr "Editar esse post &raquo;"
+
+#: wpzoom-slider.php:95
+#@ wpzoom
+msgid "by"
+msgstr "por"
+
+#: wpzoom-slider.php:102
+#@ wpzoom
+msgid "Read more"
+msgstr "Leia mais"
+
+#: wpzoom-slider.php:102
+#@ wpzoom
+msgid "Edit"
+msgstr "Editar"
+
